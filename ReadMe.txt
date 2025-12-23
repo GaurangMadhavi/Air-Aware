@@ -46,6 +46,11 @@ npm install
 npm run dev
 ```
 
+
+🎥 Demo Video:  
+https://github.com/alphanumeric0905/air-aware/releases/tag/v1.0
+
+
 The frontend `Index` page fetches `/api/latest` and will display the latest AQI, gases, PM and weather fields from the sheet.
 
 
